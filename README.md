@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=masato1230&count_private=true&show_icons=true&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff&hide=contribs,stars&icon_color=000" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masato1230&hide=html&layout=compact&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff" width="100%">
 
 <!--
 **masato1230/masato1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -51,8 +51,8 @@ I'm a Android Developer working in Tokyo, 🇯🇵Japan.
 
 <!-- Stats section -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=masato1230&count_private=true&show_icons=true&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff&hide=contribs,stars&icon_color=000" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masato1230&hide=html&layout=compact&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api?username=masato1230&count_private=true&show_icons=true&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff&hide=contribs,stars&icon_color=000" width="59%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masato1230&hide=html&layout=compact&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff" width="39%">
 </div>
 
 ## Personal Development
@@ -87,21 +87,21 @@ I'm a Android Developer working in Tokyo, 🇯🇵Japan.
       <td><img alt="frontend" src="https://img.shields.io/badge/Flontend-FF00FF?style=flat-square&logo=react&logoColor=white"><img alt="backend" src="https://img.shields.io/badge/Backend-330022?style=flat-square&logo=django&logoColor=white"></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-closed-raw/masato1230/boxiful"/>backend repo is private mode</td>
       <td><img alt="boxiful" src="https://newappplace-s3-prod.s3.ap-northeast-1.amazonaws.com/users/3199/applications/782/screenshot1/mlYS95dqmGS8Ah2Ju0CyyOswtyZ1zBjS93GJFaiJ.png"></td>
-      <td><a href="https://boxiful.jp/"><img src="https://masato.pythonanywhere.com/static/images/OGP.jpeg">web site</a></td>
+      <td><a href="https://boxiful.jp/"><img src="https://masato.pythonanywhere.com/static/images/OGP.jpeg" width="200px">web site</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/masato1230/URLFolder"><b>Bookmark Directory</b></a></td>
       <td><img alt="android" src="https://img.shields.io/badge/Android-11EE33?style=flat-square&logo=android&logoColor=white"></td>
       <td></td>
       <td><img src="images/BookmarkDirectory/bookmarkdirectory.001.png" /></td>
-      <td><a href='https://play.google.com/store/apps/details?id=com.jp_funda.urlfolder&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></td>
+      <td><a href='https://play.google.com/store/apps/details?id=com.jp_funda.urlfolder&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>JP Funda</b></a></td>
       <td><img alt="web api" src="https://img.shields.io/badge/Web API-223eee?style=flat-square&logo=django&logoColor=white"></td>
       <td>private repo</td>
       <td><img src="images/jp_funda/Screen Shot 2022-04-29 at 21.42.57.png" /></td>
-      <td><a href='https://www.jp-funda.com'><img src="https://www.jp-funda.com/static/images/jp_funda_ogp.jpeg" />web site</a></td>
+      <td><a href='https://www.jp-funda.com'><img src="https://www.jp-funda.com/static/images/jp_funda_ogp.jpeg" width="200px" />web site</a></td>
     </tr>
   </tbody>
 </table>

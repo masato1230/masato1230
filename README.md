@@ -3,7 +3,7 @@
 I'm a Android Developer working in Tokyo, 🇯🇵Japan.
 
 ### Things I code with
-<sup><sub>Android</sub></sup>
+<sup>Android</sup>
 
 <div>
 <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-AA11FF?&style=flat-square&logo=kotlin&logoColor=white" />
@@ -26,7 +26,7 @@ I'm a Android Developer working in Tokyo, 🇯🇵Japan.
 <img alt="robolectric" src="https://img.shields.io/badge/Robolectric-005500?style=flat-square&logo=robolectric&logoColor=white">
 </div>
 
-<sub><sup>iOS & Web & Other</sup></sub>
+<sub>iOS & Web & Other</sub>
 
 <div>
 <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white">
@@ -62,9 +62,7 @@ I'm a Android Developer working in Tokyo, 🇯🇵Japan.
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>Platform</b></td>
-      <td><b>About</b></td>
-      <td><b>📗 Libralies</b></td>
-      <td><b>Start Date</b></td>
+      <td><b>Pull Requests</b></td>
       <td><b>Feature</b></td>
       <td><b>Site/Store Link</b></td>
     </tr>
@@ -73,53 +71,37 @@ I'm a Android Developer working in Tokyo, 🇯🇵Japan.
   <tr>
       <td><a href="https://github.com/masato1230/BoxifulAndroid"><b>Boxiful(Android)</b></a></td>
       <td><img alt="androidx" src="https://img.shields.io/badge/Android-11EE33?style=flat-square&logo=android&logoColor=white"></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-closed-raw/masato1230/BoxifulAndroid"/></td>
       <td></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td></td>
-      <td></td>
-      <td><sub><sup>under construction</sup></sub></td>
+      <td>under construction</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>TodoMind</b></a></td>
+      <td><a href="https://github.com/masato1230/TodoMind"><b>TodoMind</b></a></td>
       <td><img alt="androidx" src="https://img.shields.io/badge/Android-11EE33?style=flat-square&logo=android&logoColor=white"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-closed-raw/masato1230/TodoMind"/></td>
       <td><img src="images/TodoMind/TodoMind_feature.001.jpeg"></td>
+      <td><a href='https://play.google.com/store/apps/details?id=com.jp_funda.todomind&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/masato1230/BoxifulAndroid"><b>Boxiful(Web)</b></a></td>
+      <td><a href="https://github.com/masato1230/Boxiful"><b>Boxiful(Web)</b></a></td>
       <td><img alt="frontend" src="https://img.shields.io/badge/Flontend-FF00FF?style=flat-square&logo=react&logoColor=white"><img alt="backend" src="https://img.shields.io/badge/Backend-330022?style=flat-square&logo=django&logoColor=white"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-closed-raw/masato1230/boxiful"/>backend repo is private mode</td>
+      <td><img alt="boxiful" src="https://newappplace-s3-prod.s3.ap-northeast-1.amazonaws.com/users/3199/applications/782/screenshot1/mlYS95dqmGS8Ah2Ju0CyyOswtyZ1zBjS93GJFaiJ.png"></td>
+      <td><a href="https://boxiful.jp/"><img src="https://masato.pythonanywhere.com/static/images/OGP.jpeg">web site</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Bookmark Directory</b></a></td>
-      <td><img alt="androidx" src="https://img.shields.io/badge/Android-11EE33?style=flat-square&logo=android&logoColor=white"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/masato1230/URLFolder"><b>Bookmark Directory</b></a></td>
+      <td><img alt="android" src="https://img.shields.io/badge/Android-11EE33?style=flat-square&logo=android&logoColor=white"></td>
+      <td></td>
+      <td><img src="images/BookmarkDirectory/bookmarkdirectory.001.png" /></td>
+      <td><a href='https://play.google.com/store/apps/details?id=com.jp_funda.urlfolder&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>JP Funda</b></a></td>
       <td><img alt="web api" src="https://img.shields.io/badge/Web API-223eee?style=flat-square&logo=django&logoColor=white"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td>private repo</td>
+      <td><img src="images/jp_funda/Screen Shot 2022-04-29 at 21.42.57.png" /></td>
+      <td><a href='https://www.jp-funda.com'><img src="https://www.jp-funda.com/static/images/jp_funda_ogp.jpeg" />web site</a></td>
     </tr>
   </tbody>
 </table>
-
-TodoMind
-<div>
-  <img src="images/TodoMind/TodoMind_feature.001.jpeg" width="50%">
-  <div width="50%">
-    <p>Task management application</p>
-    <a href='https://play.google.com/store/apps/details?id=com.jp_funda.todomind&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px"/></a>
-  </div>
-</div>
-* BookmarkDirectory -
-<a href='https://play.google.com/store/apps/details?id=com.jp_funda.urlfolder&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-* JP Funda
-<a href='https://www.jp-funda.com'><img src="https://www.jp-funda.com/static/images/jp_funda_ogp.jpeg" /></a>

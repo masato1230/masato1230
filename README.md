@@ -36,10 +36,8 @@ I'm a Android/Kotlin Developer working in Tokyo, 🇯🇵Japan.
 
 <!-- Stats section -->
 ## Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=masato1230&count_private=true&show_icons=true&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff&hide=contribs,stars&icon_color=000" width="59%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masato1230&hide=html&layout=compact&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff" width="39%">
-</div>
+![streak stats](https://streak-stats.demolab.com/?user=masato1230&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=masato1230&hide=html&layout=compact&bg_color=30,F59E0B,FF3700B3&title_color=fff&text_color=fff)
 
 ## Udemy Course
 

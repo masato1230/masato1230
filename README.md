@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I'm a Android/Kotlin Developer working in Tokyo, 🇯🇵Japan.
-
 ### Things I code with
 <sup>Android</sup>
 
